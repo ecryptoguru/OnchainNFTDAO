@@ -1,4 +1,9 @@
 # AnkitPunks NFT DAO
+
+This Full-stack Dapp has been made using Next.js@12 React framework
+For backend Solidity, JS and Openzepelin libraries have been used in Hardhat Development Environment. 
+Wallet-connect functioality has also been integrated and 100s of wallets including Metamask, etc can be easily connected to the Dapp.
+
 🔨 Building our DAO
 
 We want to launch a DAO for holders of our NFT Collection - AnkitPunks. From the ETH that was gained through the sale of the NFTs, we have built up a treasury. The DAO now has a lot of ETH, but currently does nothing with it.
