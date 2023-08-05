@@ -4,11 +4,9 @@ This Full-stack Dapp has been made using Next.js@12 React framework
 For backend Solidity, JS and Openzepelin libraries have been used in Hardhat Development Environment. 
 Wallet-connect functioality has also been integrated and 100s of wallets including Metamask, etc can be easily connected to the Dapp.
 
-🔨 Building our DAO
+The DAO is for holders of our NFT Collection - AnkitPunks. From the ETH gained through the sale of the NFTs, a treasury has been built. 
 
-We want to launch a DAO for holders of our NFT Collection - AnkitPunks. From the ETH that was gained through the sale of the NFTs, we have built up a treasury. The DAO now has a lot of ETH, but currently does nothing with it.
-
-We want to allow our NFT holders to create and vote on proposals to use that ETH for purchasing other NFTs from an NFT marketplace, and speculate on price. Maybe in the future when we sell the NFT back, we may split the profits among all members of the DAO.
+The NFT holders can create and vote on proposals to use that ETH for purchasing other NFTs from an FAKENFT marketplace, and speculate on price. 
 
 📝 Requirements
 
